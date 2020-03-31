@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/leverans/static/css/main.5f361e03.chunk.css",
+    "main.js": "/leverans/static/js/main.5b7f1702.chunk.js",
+    "main.js.map": "/leverans/static/js/main.5b7f1702.chunk.js.map",
+    "runtime-main.js": "/leverans/static/js/runtime-main.749f1af8.js",
+    "runtime-main.js.map": "/leverans/static/js/runtime-main.749f1af8.js.map",
+    "static/js/2.c3ecf80a.chunk.js": "/leverans/static/js/2.c3ecf80a.chunk.js",
+    "static/js/2.c3ecf80a.chunk.js.map": "/leverans/static/js/2.c3ecf80a.chunk.js.map",
+    "index.html": "/leverans/index.html",
+    "precache-manifest.373772e361218544f57612b48d4e2271.js": "/leverans/precache-manifest.373772e361218544f57612b48d4e2271.js",
+    "service-worker.js": "/leverans/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/leverans/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.c3ecf80a.chunk.js.LICENSE.txt": "/leverans/static/js/2.c3ecf80a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/leverans/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.749f1af8.js",
+    "static/js/2.c3ecf80a.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.5b7f1702.chunk.js"
+  ]
+}
